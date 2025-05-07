@@ -1,3 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
+https://bokepsotwesemok.pages.dev/sitemap.xml
